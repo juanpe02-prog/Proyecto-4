@@ -29,7 +29,7 @@ El archivo .zip contiene (al menos):
 - `README.txt`
     Este archivo con las instrucciones de uso.
 
-- (Opcional) Carpeta `ejemplos/`
+- Ejemplos
     Imágenes de prueba de gráficas para digitalizar.
 
 
@@ -57,7 +57,7 @@ Estas instrucciones aplican si usa:
 4. CÓMO EJECUTAR EL PROGRAMA
 
 
-1) Descomprimir el archivo .zip en una carpeta de su preferencia.
+1) Descargar y descomprimir el archivo .zip en una carpeta de su preferencia.
 
 2) Verificar que el archivo `digitalizador_curvas.py` y las imágenes
    que desee usar estén en la misma carpeta (o ajustar la ruta de la imagen
@@ -163,4 +163,5 @@ Autores del proyecto:
 - Juan David Pereira
 - Andrés Cadena
 - Jean Pierre
+
 
